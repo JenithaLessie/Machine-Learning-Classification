@@ -6,7 +6,8 @@ Based upon the results of the last campaign and the customer data available, we 
 
 Let's use Machine Learning to take on this task!
 
-![customer-loyalty](https://github.com/user-attachments/assets/9e49ae86-4bd4-4e7a-8355-fcfdef7a7790)
+![image](https://github.com/user-attachments/assets/c861e52f-ca6c-48be-8fd0-8e13b13c72ae)
+
 
 We firstly needed to compile the necessary data from tables in the database, gathering key customer metrics that may help predict delivery club membership.
 
