@@ -7,15 +7,18 @@ Based upon the results of the last campaign and the customer data available, we 
 Let's use Machine Learning to take on this task!
 
 
-Actions
 We firstly needed to compile the necessary data from tables in the database, gathering key customer metrics that may help predict delivery club membership.
 
 Within our historical dataset from the last campaign, we found that 69% of customers did not sign up and 31% did. This tells us that while the data isn't perfectly balanced at 50:50, it isn't too imbalanced either. Even so, we make sure to not rely on classification accuracy alone when assessing results - also analysing Precision, Recall, and F1-Score.
 
 As we are predicting a binary output, we tested four classification modelling approaches, namely:
 
-Logistic Regression
-Decision Tree
-Random Forest
+Logistic Regression, 
+
+Decision Tree, 
+
+Random Forest, 
+
 K Nearest Neighbours (KNN)
+
 For each model, we will import the data in the same way but will need to pre-process the data based up the requirements of each particular algorithm. We will train & test each model, look to refine each to provide optimal performance, and then measure this predictive performance based on several metrics to give a well-rounded overview of which is best.
